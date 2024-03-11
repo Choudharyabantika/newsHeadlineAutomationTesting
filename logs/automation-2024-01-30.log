@@ -1,0 +1,53 @@
+13:07:11.306 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching the news article
+13:07:11.519 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Printing the news in the console
+13:07:11.520 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+13:07:16.047 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - *****TC_003_Verification of Apps and Tools starting*****
+13:07:17.593 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching heading of the blog
+13:07:26.124 [TestNG-tests-2] ERROR testCases.TC_004_ToolTip - Apps and Tools header verification failed
+13:07:36.784 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+13:07:36.920 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - ***** TC_002_FetchingNews finished*****
+13:07:36.927 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - *****TC_003_Verification of Apps and Tools starting*****
+13:07:40.906 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Clicking on more section of apps and tools
+13:07:43.515 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Blogs are being fetched
+13:07:44.610 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Blogs are being fetched
+13:07:45.735 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Blogs are being fetched
+13:07:46.270 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - TC_003 FAILED
+13:07:46.274 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - ***** TC_004_verification of ToolTips starting *****
+13:07:46.821 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Blogs are being fetched
+13:07:47.871 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - *****TC_003_Verification of Apps and Tools finished*****
+13:07:47.876 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - ***** TC_004_verification of ToolTips starting *****
+13:07:56.286 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - ***** TC_004_verification of ToolTips finished *****
+13:07:57.920 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - ***** TC_004_verification of ToolTips finished *****
+12:19:48.033 [main] INFO  testCases.TC_004_ToolTip - ****** Starting TC_001_AccountConfirmationTest ******
+12:19:48.042 [main] DEBUG testCases.TC_004_ToolTip - Application logs started
+12:19:51.290 [main] INFO  testCases.TC_004_ToolTip - Clicked on side profile initials 
+12:19:51.908 [main] INFO  testCases.TC_004_ToolTip - ScreenShot of side profile
+12:19:53.656 [main] INFO  testCases.TC_004_ToolTip - Fetching username
+12:19:54.715 [main] INFO  testCases.TC_004_ToolTip - Fetching user mail Id
+12:19:59.731 [main] INFO  testCases.TC_004_ToolTip - Validating expected username and mail Id
+12:19:59.740 [main] INFO  testCases.TC_004_ToolTip - Test case passed
+12:19:59.740 [main] INFO  testCases.TC_004_ToolTip - ******  TC_001_AccountConfirmationTest finished******
+12:19:59.770 [main] INFO  testCases.TC_004_ToolTip - ***** TC_002_FetchingNews starting *****
+12:19:59.944 [main] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+12:20:05.374 [main] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+12:20:15.361 [main] INFO  testCases.TC_004_ToolTip - *****TC_003_Verification of Apps and Tools starting*****
+12:20:15.418 [main] ERROR testCases.TC_004_ToolTip - Apps and Tools header verification failed
+12:20:18.556 [main] INFO  testCases.TC_004_ToolTip - TC_003 FAILED
+12:20:18.562 [main] INFO  testCases.TC_004_ToolTip - ***** TC_004_verification of ToolTips starting *****
+12:20:18.572 [main] ERROR testCases.TC_004_ToolTip - Tooltip verification failed-----
+12:21:05.806 [main] INFO  testCases.TC_004_ToolTip - ****** Starting TC_001_AccountConfirmationTest ******
+12:21:05.812 [main] DEBUG testCases.TC_004_ToolTip - Application logs started
+12:21:09.050 [main] INFO  testCases.TC_004_ToolTip - Clicked on side profile initials 
+12:21:09.670 [main] INFO  testCases.TC_004_ToolTip - ScreenShot of side profile
+12:21:10.748 [main] INFO  testCases.TC_004_ToolTip - Fetching username
+12:21:11.798 [main] INFO  testCases.TC_004_ToolTip - Fetching user mail Id
+12:21:16.806 [main] INFO  testCases.TC_004_ToolTip - Validating expected username and mail Id
+12:21:16.814 [main] INFO  testCases.TC_004_ToolTip - Test case passed
+12:21:16.814 [main] INFO  testCases.TC_004_ToolTip - ******  TC_001_AccountConfirmationTest finished******
+12:21:16.843 [main] INFO  testCases.TC_004_ToolTip - ***** TC_002_FetchingNews starting *****
+12:21:17.077 [main] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+12:21:22.539 [main] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+12:21:22.719 [main] INFO  testCases.TC_004_ToolTip - Fetching the author of the news
+12:21:24.822 [main] INFO  testCases.TC_004_ToolTip - Fetching the news article
+12:21:24.953 [main] INFO  testCases.TC_004_ToolTip - Printing the news in the console
+12:21:24.953 [main] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page

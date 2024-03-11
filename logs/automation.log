@@ -1,0 +1,30 @@
+12:21:31.427 [main] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+12:21:36.959 [main] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+12:21:37.062 [main] INFO  testCases.TC_004_ToolTip - Fetching the author of the news
+12:21:39.173 [main] INFO  testCases.TC_004_ToolTip - Fetching the news article
+12:21:39.400 [main] INFO  testCases.TC_004_ToolTip - Printing the news in the console
+12:21:39.401 [main] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+12:21:44.246 [main] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+12:21:49.708 [main] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+12:21:49.820 [main] INFO  testCases.TC_004_ToolTip - Fetching the author of the news
+12:21:51.943 [main] INFO  testCases.TC_004_ToolTip - Fetching the news article
+12:21:52.044 [main] INFO  testCases.TC_004_ToolTip - Printing the news in the console
+12:21:52.045 [main] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+12:21:55.516 [main] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+12:22:01.022 [main] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+12:22:01.108 [main] INFO  testCases.TC_004_ToolTip - Fetching the author of the news
+12:22:03.202 [main] INFO  testCases.TC_004_ToolTip - Fetching the news article
+12:22:03.365 [main] INFO  testCases.TC_004_ToolTip - Printing the news in the console
+12:22:03.365 [main] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+12:22:07.022 [main] INFO  testCases.TC_004_ToolTip - Fetching heading of the blog
+12:22:25.037 [main] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+12:22:25.178 [main] INFO  testCases.TC_004_ToolTip - ***** TC_002_FetchingNews finished*****
+12:22:25.184 [main] INFO  testCases.TC_004_ToolTip - *****TC_003_Verification of Apps and Tools starting*****
+12:22:29.168 [main] INFO  testCases.TC_004_ToolTip - Clicking on more section of apps and tools
+12:22:35.901 [main] INFO  testCases.TC_004_ToolTip - Blogs are being fetched
+12:22:37.014 [main] INFO  testCases.TC_004_ToolTip - Blogs are being fetched
+12:22:38.118 [main] INFO  testCases.TC_004_ToolTip - Blogs are being fetched
+12:22:39.228 [main] INFO  testCases.TC_004_ToolTip - Blogs are being fetched
+12:22:40.269 [main] INFO  testCases.TC_004_ToolTip - *****TC_003_Verification of Apps and Tools finished*****
+12:22:40.275 [main] INFO  testCases.TC_004_ToolTip - ***** TC_004_verification of ToolTips starting *****
+12:22:50.292 [main] INFO  testCases.TC_004_ToolTip - ***** TC_004_verification of ToolTips finished *****

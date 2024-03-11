@@ -1,0 +1,50 @@
+13:06:02.296 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+13:06:03.697 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Validating expected username and mail Id
+13:06:03.699 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Test case passed
+13:06:03.699 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - ******  TC_001_AccountConfirmationTest finished******
+13:06:03.710 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - ***** TC_002_FetchingNews starting *****
+13:06:04.132 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+13:06:07.875 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+13:06:08.051 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching the author of the news
+13:06:09.441 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+13:06:09.580 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching the author of the news
+13:06:10.241 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching the news article
+13:06:10.706 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Printing the news in the console
+13:06:10.707 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+13:06:11.693 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching the news article
+13:06:12.228 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Printing the news in the console
+13:06:12.231 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+13:06:22.224 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+13:06:28.612 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+13:06:28.728 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching the author of the news
+13:06:30.756 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+13:06:30.900 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching the news article
+13:06:31.026 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Printing the news in the console
+13:06:31.027 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+13:06:35.981 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+13:06:38.642 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+13:06:38.777 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching the author of the news
+13:06:40.904 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching the news article
+13:06:41.049 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Printing the news in the console
+13:06:41.049 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+13:06:41.643 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+13:06:41.778 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching the author of the news
+13:06:43.885 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching the news article
+13:06:44.109 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Printing the news in the console
+13:06:44.109 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+13:06:46.374 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+13:06:48.594 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+13:06:53.149 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+13:06:53.404 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching the author of the news
+13:06:54.452 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+13:06:54.541 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching the author of the news
+13:06:55.700 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching the news article
+13:06:55.846 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Printing the news in the console
+13:06:55.847 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+13:06:56.663 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching the news article
+13:06:56.874 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Printing the news in the console
+13:06:56.875 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Navigating back to the be.cognizant main page
+13:07:03.260 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - clicking on the link in the featured news section
+13:07:03.702 [TestNG-tests-2] INFO  testCases.TC_004_ToolTip - Fetching heading of the blog
+13:07:08.917 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching heading of the news
+13:07:09.136 [TestNG-tests-1] INFO  testCases.TC_004_ToolTip - Fetching the author of the news
